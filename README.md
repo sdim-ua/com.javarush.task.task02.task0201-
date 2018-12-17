@@ -23,6 +23,7 @@ public class Solution {
         print("Java opens many opportunities!");
         
     }
+    
     public static void print(String s){
         //напишите тут ваш код
         
